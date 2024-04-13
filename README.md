@@ -43,7 +43,6 @@ The architecture utilizes Azure services such as Resource Groups, Storage Accoun
 1. `Azure CLI` linked to your account
 2. Install `Terraform` 
 
-![image](https://github.com/anvithalolla/Azure-CI-CD-Pipeline/assets/55392153/418b554b-6267-452e-bb3d-00446050505d)
 
 ![image](https://github.com/anvithalolla/Azure-CI-CD-Pipeline/assets/55392153/78172a02-3026-4871-a2e5-bb148b84dab0)
 
