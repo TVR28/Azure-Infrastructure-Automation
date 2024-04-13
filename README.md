@@ -30,7 +30,6 @@ The architecture utilizes Azure services such as Resource Groups, Storage Accoun
 - **Storage Accounts** Used for storing CI/CD artifacts such as build outputs, logs, and binaries. They are configured to use blob storage for unstructured data, accessible globally via HTTP/HTTPS.
 - **Data Factories** Facilitates data integration services that allow data-driven workflow creation for orchestrating and automating data movement and data transformation.
 
-![image](https://github.com/anvithalolla/Azure-CI-CD-Pipeline/assets/55392153/e298868f-2f44-4fcf-903a-568178a7f70e)
 
 ## Prerequisites
 
