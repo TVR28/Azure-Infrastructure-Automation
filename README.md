@@ -1,6 +1,6 @@
 # Azure Infrastructure Pipeline Automation Using Terraform
 
-This project creates a robust CI/CD pipeline using Azure and Terraform, focusing on automating the setup and management of a suite of Azure resources. The goal is to provide a comprehensive, error-minimized automated system that can deploy and manage complex cloud infrastructures efficiently. This project involves creating a pipeline using Terraform, which automates the provisioning of an Azure account that includes key components such as resource groups, storage accounts, and a data factory. This setup demonstrates the utility of Infrastructure as Code (IaC) in managing and deploying cloud resources predictably and at scale.
+This project builds a robust CI/CD pipeline using Azure and Terraform, focusing on automating the setup and management of a suite of Azure resources. The goal is to provide a comprehensive, error-minimized automated system that can deploy and manage complex cloud infrastructures efficiently. This project involves creating a pipeline using Terraform, which automates the provisioning of an Azure account that includes key components such as resource groups, storage accounts, and a data factory. This setup demonstrates the utility of Infrastructure as Code (IaC) in managing and deploying cloud resources predictably and at scale.
 
 ![image](https://github.com/anvithalolla/Azure-CI-CD-Pipeline/assets/55392153/be0fcf6c-2138-4fe5-9467-aa26d423a6b2)
 
